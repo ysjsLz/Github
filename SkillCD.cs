@@ -1,7 +1,5 @@
-﻿using UnityEngine;
-using System.Collections;
 
-public class SkillCD : MonoBehaviour {
+
 	private float currentTime;
 	private float SkillTime1;
 	private float hasTime;
